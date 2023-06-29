@@ -1,0 +1,12 @@
+import math
+math.ceil(2.4)
+math.floor(2.4)
+math.ceil(2.4)
+math.ceil(-2.4)
+math.floor(-2.4)
+math.pow(5,3)
+math.sqrt(3.6)
+math.log(125,5)
+math.degrees(0.5*math.pi)
+math.radians(180/math.pi)
+math.sin(0.3)
