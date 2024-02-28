@@ -1,0 +1,56 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .title {
+    font-weight: bold;
+    font-size: 20px;
+    width: 300px;
+    margin-bottom: 5px;
+    line-height: 24px;
+
+  }
+
+  .stats {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+  }
+
+  .author {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 20px;
+  }
+
+  .descript {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 20px;
+    width: 300px;
+    margin-bottom: 100px;
+  }
+
+  .linser {
+    text-decoration: none;
+  }
+
+  .link {
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(226, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .linker {
+    color: white;
+    text-decoration: none;
+  }
+
+  .linker:hover {
+    text-decoration: underline;
+  }
