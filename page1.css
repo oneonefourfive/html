@@ -1,0 +1,8 @@
+div{
+
+  max-width: 1960px;
+  text-align: center;
+  background-image:url("photos/train.jpeg");
+  padding: 10px;
+  bottom:100%;
+}
